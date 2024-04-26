@@ -1,1 +1,1 @@
-# Pytorch_MultiClass
+Простенькая модель на PyTorch для multi-class classification.
